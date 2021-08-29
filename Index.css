@@ -1,0 +1,48 @@
+.contact{
+    background-color: #f1f1f1; 
+    
+    
+    
+    }
+    body{
+background-color:#4a85d3 ;
+
+
+
+    }
+ /*Header*/
+ header{
+    background-color: #fff;
+    height: 40px;
+    overflow: hidden;
+    padding: 20px;
+       }
+    header h1{
+        float: left;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    }
+    .logo{
+    color: #16bbd1;
+  
+    }
+header p {
+position: absolute;
+top: 300px;
+color: #f1f1f1;
+
+
+}
+.covid{
+position: absolute;
+left: 20px;
+top: 100px;
+border-radius: 20px;
+height: 150px;
+
+}
+#logo2{
+color: rgb(255, 166, 0);
+
+
+
+}
